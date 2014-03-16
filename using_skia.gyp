@@ -18,7 +18,7 @@
         'app/main.cpp'
       ],
       'ldflags': [
-        '-lskia', '-stdlib=libc++', '-std=c++11'
+        '-stdlib=libc++', '-std=c++11'
       ],
       'cflags': [
         '-Werror', '-W', '-Wall', '-Wextra', '-Wno-unused-parameter', '-g', '-O0'
